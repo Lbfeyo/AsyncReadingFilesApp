@@ -1,4 +1,3 @@
-﻿
 Console.WriteLine($"Ввведите путь к директории:");
 var task1 = Console.ReadLine();
 if (Directory.Exists(task1))
